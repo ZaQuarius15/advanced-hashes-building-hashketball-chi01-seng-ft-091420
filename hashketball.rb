@@ -42,7 +42,7 @@ def game_hash
         :assists => 6,
         :steals => 3,
         :blocks => 8,
-        :slam_dunks => 5,
+        :slam_dunks => 5
         },
         {:player_name => "Jason Terry",
         :number => 31,
@@ -72,13 +72,13 @@ def game_hash
         :slam_dunks => 2
         },
         {:player_name => "Bismack Biyombo",
-        :number => 0
-        :shoe => 16
-        :points => 12
-        :rebounds => 4
-        :assists => 7
-        :steals => 22
-        :blocks => 15
+        :number => 0,
+        :shoe => 16,
+        :points => 12,
+        :rebounds => 4,
+        :assists => 7,
+        :steals => 22,
+        :blocks => 15,
         :slam_dunks => 10
         },
         {:player_name => "DeSagna Diop",
